@@ -12,13 +12,10 @@ public class Main {
 
         logger.info("Hello World");
 
-        logger.debug("Wtf");
-
         logger.warn("Fuck");
 
         logger.error("42");
-
-        logger.trace("111");
-
     }
+
+
 }
